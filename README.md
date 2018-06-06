@@ -1,1 +1,2 @@
-"# note-app-nodejs" 
+"# note-app-nodejs"
+"#my first nodejs app...."

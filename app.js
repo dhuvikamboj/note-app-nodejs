@@ -1,4 +1,3 @@
-console.log('add.js started');
 const fs=require('fs');
 
 var printNote = (note)=>{

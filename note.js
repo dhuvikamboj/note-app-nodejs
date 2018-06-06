@@ -1,4 +1,4 @@
-const add= require('./add.js');
+const add= require('./app.js');
 
 
 const yargs=require('yargs');
