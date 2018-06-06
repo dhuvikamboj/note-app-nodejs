@@ -1,0 +1,16 @@
+{
+  "name": "notes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davinder singh",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.17.5",
+    "npm": "^6.1.0",
+    "yargs": "^11.0.0"
+  }
+}
